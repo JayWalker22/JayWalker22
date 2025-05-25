@@ -10,6 +10,7 @@
 - 📊 Apache POI (Excel işlemleri)
 - 🧰 Maven, Git, GitHub
 - 🌐 HTML, CSS (temel seviyede)
+- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 
 ## 📈 GitHub İstatistiklerim
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayWalker22&show_icons=true&theme=tokyonight)

@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Merhaba, ben JayWalker22
 
-<!--
-**JayWalker22/JayWalker22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java & Test Otomasyon geliştiricisiyim  
+🔍 Selenium, TestNG, Apache POI ile otomasyon projeleri geliştiriyorum  
+🎯 Amacım sürdürülebilir, okunabilir ve etkili test senaryoları geliştirmek  
 
-Here are some ideas to get you started:
+## 🚀 Kullandığım Teknolojiler
+- ☕ Java
+- 🧪 Selenium, TestNG
+- 📊 Apache POI (Excel işlemleri)
+- 🧰 Maven, Git, GitHub
+- 🌐 HTML, CSS (temel seviyede)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayWalker22&show_icons=true&theme=tokyonight)
+
+## 📂 Bazı Projelerim
+- 🔸 [AutomationReviewSend](https://github.com/JayWalker22/AutomationReviewSend)
+- 🔸 [LoginAndLogout](https://github.com/JayWalker22/LoginAndLogout)

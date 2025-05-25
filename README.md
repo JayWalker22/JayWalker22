@@ -14,6 +14,7 @@
 ## 📈 GitHub İstatistiklerim
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayWalker22&show_icons=true&theme=tokyonight)
 
-## 📂 Bazı Projelerim
+## 📂 Bazı Projelerimü
+- 🔸 [otoKocDataTest](https://github.com/JayWalker22/otoKocDataTest)
 - 🔸 [AutomationReviewSend](https://github.com/JayWalker22/AutomationReviewSend)
 - 🔸 [LoginAndLogout](https://github.com/JayWalker22/LoginAndLogout)
